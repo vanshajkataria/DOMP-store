@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2880 1800" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="ethereum-1.svg">
+<path d="M347.395 380.431L340.429 404.11L340.429 1091.21L347.395 1098.17L666.341 909.638L347.395 380.431Z" fill="#343434" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M347.398 380.431L28.4524 909.638L347.398 1098.17L347.398 764.67L347.398 380.431Z" fill="#8c8c8c" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M347.395 1158.56L343.47 1163.34L343.47 1408.1L347.395 1419.57L666.533 970.124L347.395 1158.56Z" fill="#3c3c3b" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M347.398 1419.57L347.398 1158.55L28.4524 970.119L347.398 1419.57Z" fill="#8c8c8c" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M347.395 1098.17L666.336 909.641L347.395 764.672L347.395 1098.17Z" fill="#141414" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M28.4524 909.638L347.393 1098.17L347.393 764.67L28.4524 909.638Z" fill="#393939" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+<g fill="#393939" opacity="1" stroke="none" vectornator:layerName="Text 1">
+<path d="M1049.57 976.413C1049.57 1009.37 1030.77 1036.47 997.565 1036.47L857.429 1036.47L857.429 916.354L997.565 916.354C1030.77 916.354 1049.57 943.209 1049.57 976.413ZM729.499 812.35L729.499 1140.48L1021.49 1140.48C1111.58 1141.7 1178.47 1065.52 1177.74 976.413C1178.47 886.813 1111.58 811.129 1021.49 812.35L729.499 812.35Z"/>
+<path d="M1436.04 803.805C1312.51 804.049 1211.43 839.694 1211.92 963.961L1211.92 987.887C1211.43 1111.91 1312.51 1147.8 1436.04 1148.04C1559.33 1147.8 1660.41 1111.91 1659.92 987.887L1659.92 963.961C1659.92 839.938 1559.58 803.805 1436.04 803.805ZM1531.99 979.831C1532.72 1033.54 1488.29 1043.31 1436.04 1044.04C1383.55 1043.31 1339.12 1033.54 1339.85 979.831L1339.85 971.774C1339.12 918.307 1383.55 908.541 1436.04 907.809C1488.29 908.541 1532.72 918.307 1531.99 971.774L1531.99 979.831Z"/>
+<path d="M1697.76 1139.99L1825.69 1139.99L1825.69 964.938L1953.86 1139.99L2017.83 1139.99L2146 964.938L2146 1139.99L2273.93 1139.99L2273.93 811.862L2114.02 811.862L1985.85 975.924L1857.92 811.862L1697.76 811.862L1697.76 1139.99Z"/>
+<path d="M2476.33 964.206L2476.33 908.297L2632.58 908.297C2640.14 908.297 2646.74 910.983 2652.11 916.598C2657.72 921.969 2660.41 928.561 2660.41 936.374C2660.41 943.942 2657.72 950.534 2652.11 956.149C2646.74 961.52 2640.14 964.206 2632.58 964.206L2476.33 964.206ZM2348.4 812.35L2348.4 1140.48L2476.33 1140.48L2476.33 1060.4L2664.56 1060.4C2732.18 1061.37 2789.56 1004 2788.58 936.374C2789.56 868.502 2732.18 811.618 2664.56 812.35L2348.4 812.35Z"/>
+</g>
+</g>
+</svg>
